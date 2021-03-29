@@ -16,12 +16,12 @@ a {
 }
 
 .container {
-  max-width: 1170px;
+  max-width: 170px;
   padding: 0 15px;
   margin: 0 auto;
   
   height: 100px;
-  background-color: red;
+  background-color: black;
   position: relative;
   animation: myfirst 5s linear 2s infinite alternate;
 
